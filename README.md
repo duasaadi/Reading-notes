@@ -11,4 +11,6 @@ Amman201d12
 
 [reading class 05]( reading-05.md )
 
-[reading class 05]( reading-06.md )
+[reading class 06]( reading-06.md )
+
+[reading class 06]( reading-07.md )
