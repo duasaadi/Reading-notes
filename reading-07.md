@@ -15,6 +15,3 @@ Arrays are special type of objects ,hold data pairs but the paring is between da
 
 # Built in objects:
 Browsers come with a set of built-in objects that represent things like the browser window and the current web page shown in that window. These built-in objects act like a toolkit for creating interactive web pages. 
-![built-in](/img/builtin.PNG)
-![doc](/img/doc.PNG)
-![browser](/img/brow.PNG)
