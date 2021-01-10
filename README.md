@@ -19,4 +19,6 @@ Amman201d12
 
 [reading class 08]( reading-08.md )
 
-[reading class 08]( reading-10.md )
+[reading class 10]( reading-10.md )
+
+[reading class 11]( reading-11.md )
